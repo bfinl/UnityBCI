@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/113076950.svg)](https://zenodo.org/badge/latestdoi/113076950)
+
 # UnityBCI
 
 Future home of the UnityBCI project created in the Biomedical Functional Imaging Laboratory at the University of Minnesota by Christopher Coogan 2016-2018
